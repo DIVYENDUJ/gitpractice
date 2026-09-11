@@ -3,3 +3,4 @@ adding this lines to do the rebase and test with feature branch
 adding commit new
 trying to add this to check if merging with the main alters the history log
 merge commit 1
+merge commit 2

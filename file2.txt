@@ -6,3 +6,6 @@ merge commit 1
 merge commit 2
 merge commit 3
 merge commit 4
+new commit to squash 1
+new commit to squash 2
+new commit to squash 3

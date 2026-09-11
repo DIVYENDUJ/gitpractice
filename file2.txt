@@ -9,3 +9,4 @@ merge commit 4
 new commit to squash 1
 new commit to squash 2
 new commit to squash 3
+new commit to squash fir interactive -1 

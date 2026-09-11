@@ -5,3 +5,4 @@ trying to add this to check if merging with the main alters the history log
 merge commit 1
 merge commit 2
 merge commit 3
+merge commit 4

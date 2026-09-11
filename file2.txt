@@ -1,1 +1,11 @@
-hello from file 2
+hello from file 2..
+adding this lines to do the rebase and test with feature branch
+adding commit new
+trying to add this to check if merging with the main alters the history log
+merge commit 1
+merge commit 2
+merge commit 3
+merge commit 4
+new commit to squash 1
+new commit to squash 2
+new commit to squash 3

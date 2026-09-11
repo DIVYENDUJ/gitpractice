@@ -1,2 +1,3 @@
 hello from file 2..
 adding this lines to do the rebase and test with feature branch
+adding commit new

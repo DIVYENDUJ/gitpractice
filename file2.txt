@@ -11,3 +11,5 @@ new commit to squash 2
 new commit to squash 3
 checking for rebase and merge diff -1 
 oi
+new commit to squash fir interactive -1 
+new commit to squash fir interactive -2
